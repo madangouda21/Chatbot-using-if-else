@@ -1,0 +1,2 @@
+# No external libraries needed
+python>=3.8
